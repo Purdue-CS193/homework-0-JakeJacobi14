@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- I learn alot
+- I have good friends
+- It's only once a week
 
 1. Numbered
 2. List
